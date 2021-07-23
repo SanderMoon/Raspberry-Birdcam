@@ -1,1 +1,5 @@
 #requirements for this project are listed below:
+numpy
+python3-picamera
+opencv-python
+imutils
