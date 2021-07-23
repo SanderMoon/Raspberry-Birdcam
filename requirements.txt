@@ -1,5 +1,5 @@
 #requirements for this project are listed below:
 numpy
-python3-picamera
+picamera
 opencv-python
 imutils

@@ -12,3 +12,6 @@ Current implementation steps:
 - ... more soon
 
 
+Troubleshoot:
+Numpy importError: pip3 install -U numpy
+Libcblas.so.3 importError: sudo apt-get install libatlas-base-dev
