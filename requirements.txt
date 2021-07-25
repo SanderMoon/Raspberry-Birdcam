@@ -3,3 +3,4 @@ numpy
 picamera
 opencv-python
 imutils
+flask
