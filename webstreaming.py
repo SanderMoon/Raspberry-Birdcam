@@ -27,7 +27,7 @@ time.sleep(2.0)
 @app.route("/")
 def index():
 	# return the rendered template
-	return render_template("templates/index.html")
+	return render_template("index.html")
 
 def detect_motion(frameCount):
 	# grab global references to the video stream, output frame, and
